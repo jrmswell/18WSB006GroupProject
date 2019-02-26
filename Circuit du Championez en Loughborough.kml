@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Circuit du Championez en Loughborough</name>
+    <NetworkLink>
+      <name>Potential Routes</name>
+      <Link>
+        <href><![CDATA[http://www.google.co.uk/maps/d/kml?forcekml=1&mid=1ZX6_YRV6x9YgcG0NPq5BNKSmbBblVgVZ&lid=BD4H-HoV9hg]]></href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
