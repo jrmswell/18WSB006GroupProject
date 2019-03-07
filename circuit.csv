@@ -1,8 +1,3 @@
-KML2x Export:,,
-Units: Lat/Lon (Decimal degrees),,
-Datum: WGS84,,
-id,Circuit du Championez en Loughborough,vertex: 284
-,,
 Longitude,Latitude,Elevation
 -1.22461,52.76917,0
 -1.22469,52.76913,0
@@ -288,7 +283,3 @@ Longitude,Latitude,Elevation
 -1.22485,52.76949,0
 -1.2245,52.76922,0
 -1.22461,52.76917,0
-,,
-,,
-,,
-        ,,
